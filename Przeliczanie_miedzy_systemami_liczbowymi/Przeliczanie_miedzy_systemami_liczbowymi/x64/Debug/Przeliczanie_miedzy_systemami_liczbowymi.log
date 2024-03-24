@@ -1,0 +1,7 @@
+﻿  funkcje.cpp
+C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\Przeliczanie_miedzy_systemami_liczbowymi\funkcje.cpp(54,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\Przeliczanie_miedzy_systemami_liczbowymi\funkcje.cpp(63,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\Przeliczanie_miedzy_systemami_liczbowymi\funkcje.cpp(68,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\Przeliczanie_miedzy_systemami_liczbowymi\funkcje.cpp(72,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\Przeliczanie_miedzy_systemami_liczbowymi\funkcje.cpp(86,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Przeliczanie_miedzy_systemami_liczbowymi.vcxproj -> C:\Users\Admin\source\repos\Przeliczanie_miedzy_systemami_liczbowymi\x64\Debug\Przeliczanie_miedzy_systemami_liczbowymi.exe
